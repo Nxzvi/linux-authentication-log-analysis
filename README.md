@@ -255,8 +255,7 @@ failed login attempt [admin:qwerty]
 **Nezvi Hussain**
 Cybersecurity Graduate | SOC Analyst (Entry-Level)
 
-🔗 LinkedIn: *(add link)*
-📁 More Projects: *(add GitHub profile link)*
+🔗 LinkedIn: www.linkedin.com/in/nezvihussain
 
 ---
 
